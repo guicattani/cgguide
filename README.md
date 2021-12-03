@@ -1,34 +1,10 @@
-# TCC
+# CG Guide
 
-This is an OpenGL examples project, you can cycle through many different examples and change settings to see how it affects the scene.
+A modern OpenGL application focused on teaching computer graphics principles through user interaction.
 
-RoadMap:
+![CG Guide Demo](https://github.com/guicattani/cgguide/blob/main/assets/cgguide1.gif)
 
-- General
-  - [x] Imgui integration
-  - [x] Different files per scene
-  - [x] Makefile
-  - [ ] CMake/Premake files to create VS slns and Code Blocks Projects
-
----
-
-- Demos
-  - [x] Bezier Lines
-  - [ ] Culling demo
-  - [x] Matrix operations
-  - [ ] Texture mapping
-  - [x] Different shading techniques (Gourad, Phong, Flat)
-  - [ ] Frustrum demo
-  - [x] Lighting
-  - [ ] Camera movement
-  - [ ] 2D transformations
-  - [ ] Normal mapping
-  - [ ] Raycasting
-  - [ ] Portals
-  - [ ] Geometric Shaders
-  - [ ] Simple 3D Modeling
-  - [ ] Colliders
-
+![CG Guide Demo 2](https://github.com/guicattani/cgguide/blob/main/assets/cgguide2.gif)
 # Build
 
 # Pre Requisites
